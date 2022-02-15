@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ifms.edu.frame1.Frame1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.387 s - in br.ifms.edu.frame1.Frame1ApplicationTests
